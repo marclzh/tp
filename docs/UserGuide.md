@@ -122,6 +122,7 @@ Example:
 Just remember that toggling between these two screens is easily done with 2 commands: `rlist` and `list`!
 </div>
 
+<div style="page-break-after: always;"></div>
 
 #### Filtered/Unfiltered List Views
 OmniHealth's sorting and filtering system allows you to search for specific patients and records in each respective list views.
